@@ -1,6 +1,6 @@
 ## MasterBot
 
-Help control bots on your server
+Help control all telegram bots on your server.
 
 ### Functions:
     
