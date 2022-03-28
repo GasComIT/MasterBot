@@ -20,7 +20,7 @@ Help control bots on your server
 6. Start the master, `python main.py`
 
 ### ⚠️ Known Issue
-Once the masterbot restarts anyother program, the new program will be under the masterbot process tree. 
+Once the masterbot restarts any other program, the new program will be under the masterbot process tree. 
 If masterbot killed for any reason, all the programs started via this bot will be terminated too. 
 
 One way to safe kill this bot is to send SIGTERM signal, which will terminate this bot while preserving the child to continue execution.
